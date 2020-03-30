@@ -1,4 +1,6 @@
-## CPA Australia Discussion group: Accounting and Finance Analytics
+## Accounting and Finance Analytics
+
+CPA Australia Discussion group
 
 *************************************
 
